@@ -20,3 +20,5 @@ sshd journalctl -u sshd -f
 echo $((2-2))
 
 ▄︻デ══━一💥
+
+![alt text](<Снимок экрана 2024-12-06 в 22.12.18.png>)
